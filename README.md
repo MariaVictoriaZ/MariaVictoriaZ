@@ -1,16 +1,16 @@
-## Hi there 👋
+# 💻 ¡Hola! Soy [Tu Nombre]
 
-<!--
-**MariaVictoriaZ/MariaVictoriaZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy una desarrolladora web con enfoque en **Full Stack** y un interés especial por el **Front-End**. Me apasiona crear soluciones intuitivas y eficaces que optimicen la experiencia del usuario. 
 
-Here are some ideas to get you started:
+### 🚀 Tecnologías y habilidades
+- **Front-End**: HTML, CSS, JavaScript, React, Bootstrap
+- **Back-End**: Python
+- **Colaboración**: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Siempre aprendiendo
+Estoy en constante búsqueda de nuevas habilidades y tecnologías para seguir mejorando mis proyectos. Me motiva el trabajo en equipo, donde puedo colaborar, aportar ideas y construir algo valioso junto a otros.
+
+### 📫 ¡Conéctate conmigo!
+Si quieres contactar conmigo o colaborar en algo interesante, no dudes en contactarme:
+- [LinkedIn](www.linkedin.com/in/maria-zapata-715743271)
+- [Correo electrónico](mariavzapata0@gmail.com)
