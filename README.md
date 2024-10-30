@@ -12,5 +12,5 @@ Estoy en constante búsqueda de nuevas habilidades y tecnologías para seguir me
 
 ### 📫 ¡Conéctate conmigo!
 Si quieres contactar conmigo o colaborar en algo interesante, no dudes en contactarme:
-- [LinkedIn](www.linkedin.com/in/maria-zapata-715743271)
-- [Correo electrónico](mariavzapata0@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/maria-zapata-715743271)
+- [Correo electrónico](mailto:mariavzapata0@gmail.com)
