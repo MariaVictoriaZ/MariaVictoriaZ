@@ -1,4 +1,4 @@
-# 💻 ¡Hola! Soy [Tu Nombre]
+# 💻 ¡Hola! Soy Maria Zapata
 
 Soy una desarrolladora web con enfoque en **Full Stack** y un interés especial por el **Front-End**. Me apasiona crear soluciones intuitivas y eficaces que optimicen la experiencia del usuario. 
 
